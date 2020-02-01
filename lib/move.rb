@@ -11,6 +11,7 @@ def input_to_index(num)
     return num.to_i + 1
 end
 
-def move(num)
+def move(arr,ind,key)
+  return arr[ind] = key
 
 end
