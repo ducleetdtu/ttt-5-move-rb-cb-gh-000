@@ -16,3 +16,4 @@ def move(arr,ind,key)
 
 end
 board = [" "," "," "," "," "," "," "," "," "]
+
