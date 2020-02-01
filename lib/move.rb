@@ -15,4 +15,3 @@ def move(arr,ind,key="X")
   return arr[ind] = key
 
 end
-board = [" "," "," "," "," "," "," "," "," "]
